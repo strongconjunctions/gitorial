@@ -1,0 +1,4 @@
+gitorial
+========
+
+A training repository.
